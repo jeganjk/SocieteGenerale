@@ -1,0 +1,4 @@
+#Category,Parentdiscount,SubCategory,Discount
+Shirts,0%,,0%
+Trousers,0%,Casuals,30%
+Jeans,20%,,0%             

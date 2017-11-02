@@ -1,0 +1,3 @@
+#Category,Parentdiscount,SubCategory,Discount
+Dresses,0%,,0%
+Footwear,0%,,0%
