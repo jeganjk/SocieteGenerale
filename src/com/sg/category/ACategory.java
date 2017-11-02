@@ -4,7 +4,7 @@ import com.sg.discount.IDiscount;
 
 public abstract class ACategory {
 	
-	int iMainParentCategory;
+	int iMainParentCategory=0;
 	
 	ACategory(int iMainParentCategory)
 	{
