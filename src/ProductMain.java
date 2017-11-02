@@ -25,7 +25,6 @@ public class ProductMain {
 		int iParentCategoryDiscount=0;
 		int iFinalDiscount=0;
 		double dFinalItemPrice=0.0;
-		//String tempItems="1,5";
 		String tempAry[]=null;
 		double dFinalPrice=0.0;
 		
@@ -33,7 +32,6 @@ public class ProductMain {
 		System.out.println("Enter number of Inventory=");
 		int iNumberInventory=sc.nextInt();
 		
-		//System.out.println("iNumberInventory="+iNumberInventory);
 		System.out.println("Enter the Inventory IDs:");
 		 
 		String strItemAry[]=new String[iNumberInventory];
